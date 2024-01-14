@@ -1,7 +1,7 @@
-# Weekly Learnings Journal
+# Weekly Learnings
 
 ## Description
-Welcome to the **Weekly Learnings Journal** repository! This documentation serves as a detailed record of my ongoing journey in acquiring new knowledge and skills. Each week, I compile insights, discoveries, challenges, and solutions encountered during my learning process.
+Welcome to the **Weekly Learnings** repository! This documentation serves as a detailed record of my ongoing journey in acquiring new knowledge and skills. Each week, I compile insights, discoveries, challenges, and solutions encountered during my learning process.
 
 ## Key Features
 1. **Weekly Entries:** Find a dedicated folder for each week, containing a markdown file summarizing key learnings and experiences.
@@ -19,7 +19,7 @@ Welcome to the **Weekly Learnings Journal** repository! This documentation serve
 ## How to Use
 1. Explore the folders to navigate through different weeks.
 2. Read the weekly markdown files for detailed insights.
-3. Use the "Resources" section for supplementary materials.
+3. Use the **Resources** section for supplementary materials.
 4. Engage in discussions, share your thoughts, and contribute to the collective learning experience.
 
 This repository aims not only to serve as a personal journal but also as a resource for the wider community. Learning is a dynamic and collaborative process, and by sharing my experiences, I hope to inspire and assist fellow learners on their own unique paths. Join me in the pursuit of knowledge!
