@@ -11,5 +11,6 @@
 - numpy.mean()
 - numpy.median()
 - numpy.percentile()
+  
 **Statistics**:
 - statistics.mode()
