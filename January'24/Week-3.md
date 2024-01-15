@@ -7,9 +7,9 @@
 
 **15th January 2024**
 # Python
-- **Numpy**
--- numpy.mean()
--- numpy.median()
--- numpy.percentile()
-- **Statistics**
--- statistics.mode()
+- **Numpy**:
+- numpy.mean()
+- numpy.median()
+- numpy.percentile()
+- **Statistics**:
+- statistics.mode()
