@@ -14,3 +14,14 @@
   
 **Statistics**:
 - statistics.mode()
+
+**15th January 2024**
+# Cryptography and Network Security
+Basic:
+- Encryption and Decryption
+- Keys
+- Types of Security
+- Security Threats 
+- Principles of Security
+- Types of Cryptography
+- Hash Function
