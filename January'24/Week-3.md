@@ -29,4 +29,4 @@ Basic:
 
 # **17th January 2024**
 ## Machine Learning
--Naive Bayes Algorithm
+- Naive Bayes Algorithm
