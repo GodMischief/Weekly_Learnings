@@ -26,3 +26,7 @@ Basic:
 - Principles of Security
 - Types of Cryptography
 - Hash Function
+
+# **17th January 2024**
+## Machine Learning
+-Naive Bayes Algorithm
